@@ -19,3 +19,11 @@ def sub(a, b):
 
 
 print(sub(3, 2))
+
+
+# Func in temp branch
+def mul(a, b):
+    return a * b
+
+
+print(mul(3, 6))
